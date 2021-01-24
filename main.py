@@ -7,3 +7,5 @@ some_value = 5
 # All three would give same answer but we would use (iii) option, as it has less typing and it is next
 some_value += 2
 print(some_value)
+
+# In order for Augmented Assignment Operator to work, we should already created a variable and assigned a value to it
